@@ -1,0 +1,1030 @@
+@media screen and (max-width: 1530px) {
+    .functional-item-info {
+        max-width: 650px;
+    }
+
+    .functional-item-image {
+        max-width: 275px;
+        margin-right: 40px;
+    }
+
+}
+
+@media screen and (max-width: 1490px) {
+    .main-info {
+        max-width: 700px;
+    }
+}
+
+@media screen and (max-width: 1450px) {
+    .main-video {
+        max-width: 600px;
+    }
+
+    .partners-item-icons {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1355px) {
+    .main-info {
+        max-width: 600px;
+    }
+
+    .main-info-title {
+        font-size: 160px;
+    }
+
+    .main-info-tagline {
+        font-size: 42px;
+    }
+
+    .main-info-plm {
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width: 1335px) {
+    .menu ul {
+        width: 650px;
+    }
+
+    .menu ul li a {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 1315px) {
+    .footer-menu {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1305px) {
+    .functional-item-PTC {
+        margin-left: 20px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .price-item {
+        max-width: 390px;
+    }
+
+    .price-item-info-cost {
+        font-size: 50px;
+    }
+
+    .price-item-info-text {
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .main-video {
+        max-width: 550px;
+    }
+
+    .main-info-plm {
+        margin-bottom: 50px;
+    }
+
+    .price-item-info {
+        padding: 40px 30px 30px 30px;
+    }
+
+    .price-item-description {
+        padding: 40px 30px 30px 30px;
+    }
+
+    .price-item-info.bg-blue {
+        padding: 40px 40px 30px 40px;
+    }
+
+    .price-item {
+        max-width: 370px;
+    }
+
+
+}
+
+@media screen and (max-width: 1215px) {
+    .functional-title {
+        font-size: 68px;
+    }
+
+    .functional-item-PTC {
+        max-width: 350px;
+    }
+
+    .partners-title {
+        font-size: 68px;
+    }
+
+    .price-title {
+        font-size: 68px;
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 1190px) {
+    .main-video {
+        max-width: 500px;
+    }
+}
+
+@media screen and (max-width: 1175px) {
+    .about-item-description-title {
+        font-size: 45px;
+    }
+
+    .about .container {
+        grid-gap: 60px 140px;
+    }
+}
+
+@media screen and (max-width: 1170px) {
+    .price-item {
+        max-width: 350px;
+        height: 1000px;
+    }
+
+    .price-item-info-text {
+        font-size: 20px;
+    }
+
+    .price-item-info-cost {
+        font-size: 46px;
+    }
+
+    .price-item-description {
+        font-size: 18px;
+    }
+
+    .price-item-description-img img {
+        height: 89px;
+    }
+}
+
+@media screen and (max-width: 1135px) {
+    .main-info {
+        max-width: 550px;
+    }
+
+    .main-info-title {
+        font-size: 150px;
+    }
+
+    .main-info-tagline {
+        font-size: 36px;
+    }
+
+    .main-info-plm {
+        font-size: 56px;
+        margin-bottom: 30px;
+    }
+
+    .main-info-description {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 1110px) {
+    .functional-item-PTC {
+        display: none;
+    }
+
+    .functional-item-info {
+        max-width: 750px;
+    }
+}
+
+@media screen and (max-width: 1105px) {
+    .about .container {
+        grid-gap: 60px 100px;
+    }
+}
+
+@media screen and (max-width: 1085px) {
+    .main .container {
+        padding: 100px 10px 110px 10px;
+    }
+
+    .main-video {
+        max-width: 450px;
+    }
+
+    .price-items {
+        flex-wrap: wrap;
+    }
+
+    .price-item {
+        max-width: 500px;
+        height: 900px;
+    }
+
+    .price-item-description-img img {
+        height: 69px;
+    }
+}
+
+@media screen and (max-width: 1070px) {
+    .header .email {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 1040px) {
+    .header .email {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 1035px) {
+    .main-info {
+        max-width: 500px;
+    }
+
+    .main-info-title {
+        font-size: 140px;
+    }
+
+    .main-info-tagline {
+        font-size: 32px;
+    }
+
+    .main-info-plm {
+        font-size: 46px;
+        margin-bottom: 30px;
+        max-width: 125px;
+    }
+
+    .main-info-description {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 1029px) {
+    .price-items {
+        justify-content: center;
+    }
+
+    .price-item {
+        margin-bottom: 10px;
+    }
+
+}
+
+@media screen and (max-width: 1024px) {
+    .footer .container {
+        padding: 50px 15px 100px 15px;
+    }
+}
+
+@media screen and (max-width: 1020px) {
+    .about-company {
+        padding-right: 30px;
+    }
+}
+
+@media screen and (max-width: 1015px) {
+    .menu ul {
+        width: 450px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .menu ul li {
+        margin-right: 10px;
+    }
+}
+
+@media screen and (max-width: 1005px) {
+    .about .container {
+        grid-gap: 60px 80px;
+    }
+
+    .about-item-description-title {
+        font-size: 40px;
+    }
+
+    .about-item-description-text {
+        font-size: 22px;
+    }
+
+    .about-item-number {
+        font-size: 68px;
+        padding: 10px;
+    }
+
+}
+
+@media screen and (max-width: 985px) {
+    .main-video {
+        max-width: 400px;
+    }
+}
+
+@media screen and (max-width: 940px) {
+    .company .container {
+        padding: 0 15px 0 15px;
+        flex-direction: column;
+    }
+
+    .company-form {
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 930px) {
+
+    .main .container {
+        flex-direction: column;
+    }
+
+    .main-info-title {
+        font-size: 150px;
+    }
+
+    .main-info-description {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .main-video {
+        order: 2;
+    }
+
+    .main-info {
+        order: 1;
+    }
+
+    .main .container div:last-child {
+        margin-bottom: 30px;
+    }
+
+    .main-info-tagline {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 890px) {
+
+    .about .container {
+        grid-gap: 60px 60px;
+        padding: 100px 15px 80px 15px;
+    }
+
+    .about-item-description-text {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 885px) {
+    .footer-logo {
+        max-width: 200px;
+    }
+
+    .footer-logo div img {
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 840px) {
+    .functional-title {
+        font-size: 64px;
+    }
+
+    .functional-item-info-title {
+        line-height: 1;
+    }
+
+    .partners-title {
+        font-size: 64px;
+    }
+
+    .partners-description {
+        font-size: 22px;
+    }
+
+    .partners-items div:first-child {
+        padding-right: 0;
+    }
+
+    .price-title {
+        font-size: 64px;
+    }
+}
+
+@media screen and (max-width: 795px) {
+    .menu ul {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    .about .container {
+        grid-gap: 60px 40px;
+    }
+
+    .about-item-number {
+        font-size: 64px;
+        padding: 8px;
+        margin-right: 20px;
+    }
+
+    .about-item-description-title {
+        line-height: 1;
+        margin-top: -10px;
+    }
+}
+
+@media screen and (max-width: 760px) {
+    .footer .container {
+        padding: 40px 15px 60px 15px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer .container div {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .footer-contacts div {
+        margin-top: 15px;
+    }
+}
+
+@media screen and (max-width: 755px) {
+    .functional-title {
+        font-size: 60px;
+    }
+
+    .functional-item-info-title {
+        font-size: 30px;
+    }
+
+    .functional-item-info-subtitle {
+        font-size: 22px;
+    }
+
+    .partners-title {
+        font-size: 60px;
+    }
+
+    .price-title {
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .menu ul {
+        width: 300px;
+    }
+
+    .functional-title {
+        font-size: 58px;
+    }
+
+    .functional-description {
+        font-size: 16px;
+    }
+
+    .functional-item-image img {
+        width: 240px;
+        height: 240px;
+    }
+
+    .partners-title {
+        font-size: 58px;
+    }
+
+    .price-title {
+        font-size: 58px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .about .container {
+        grid-template-columns: 1fr;
+    }
+
+    .about-item:last-child {
+        grid-column: 1/2;
+    }
+
+    .about-item-description-title {
+        max-width: 450px;
+    }
+
+}
+
+@media screen and (max-width: 680px) {
+    .functional-item-image img {
+        width: 200px;
+        height: 200px;
+    }
+
+    .functional-title {
+        font-size: 54px;
+    }
+
+    .partners-title {
+        font-size: 54px;
+        line-height: 1.1;
+    }
+
+    .partners-items {
+        flex-direction: column;
+    }
+
+    .partners-items div:first-child {
+        padding-right: 40px;
+        padding-bottom: 0;
+    }
+
+    .partners-description {
+        font-size: 20px;
+    }
+
+    .price-title {
+        font-size: 54px;
+    }
+
+    .company-form-title {
+        font-size: 52px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 665px) {
+    .main-info-title {
+        font-size: 140px;
+    }
+
+    .main-info-description {
+        font-size: 20px;
+    }
+
+    .main .container {
+        padding: 70px 10px;
+    }
+
+    .main-info-plm {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 645px) {
+    .menu ul {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .functional-item-image img {
+        width: 160px;
+        height: 160px;
+    }
+
+    .functional-item-info-title {
+        font-size: 28px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .charter-title {
+        font-size: 28px;
+    }
+    .charter-item {
+        margin-right: 10px;
+    }
+    .charter .container {
+        padding: 25px 20px 20px 20px;
+    }
+}
+
+@media screen and (max-width: 555px) {
+    .main-info-title {
+        font-size: 130px;
+        text-align: center;
+    }
+
+    .main-info-description {
+        font-size: 18px;
+    }
+
+    .main-info-plm {
+        max-width: 90px;
+        font-size: 38px;
+        line-height: 1;
+        padding: 8px 0;
+    }
+
+    .about-item-description-text {
+        font-size: 18px;
+    }
+
+    .company-form-title {
+        font-size: 50px;
+    }
+
+    .about-company-title {
+        font-size: 46px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .menu {
+        display: none;
+    }
+
+    .email {
+        display: none;
+    }
+
+    .menu-icon {
+        display: block;
+        cursor: pointer;
+        fill: #b6b4b4;
+    }
+
+    .menu ul {
+        align-items: center;
+    }
+
+    .header .menu {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        top: 0;
+        left: 0;
+        background: #000000c9;
+        z-index: 3;
+    }
+
+    .menu.open {
+        display: flex;
+        align-items: center;
+    }
+
+    .menu ul {
+        width: 300px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+    }
+
+    .header .menu ul li {
+        margin-bottom: 30px;
+    }
+
+    .header .menu ul li a {
+        font-size: 16px;
+    }
+
+    .menu .close {
+        display: block;
+        width: 30px;
+        height: 30px;
+        fill: #b6b4b4;
+        position: absolute;
+        top: 15px;
+        right: 18px;
+    }
+}
+
+@media screen and (max-width: 515px) {
+    .functional-title {
+        font-size: 50px;
+    }
+
+    .functional-item-image img {
+        width: 140px;
+        height: 140px;
+    }
+
+    .functional-item-image {
+        margin-right: 15px;
+    }
+
+    .functional-item-info-subtitle {
+        font-size: 20px;
+        line-height: 1;
+    }
+
+    .functional-item-info-title {
+        font-size: 26px;
+    }
+
+    .partners-title {
+        font-size: 50px;
+    }
+
+    .price-title {
+        font-size: 50px;
+    }
+
+    .price-description {
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .about-item-description-title {
+        font-size: 38px;
+        margin-top: 0;
+    }
+}
+
+@media screen and (max-width: 485px) {
+    .partners-title {
+        font-size: 46px;
+    }
+}
+
+@media screen and (max-width: 470px) {
+    .main-info-tagline {
+        font-size: 30px;
+    }
+
+    .main-info-title {
+        font-size: 125px;
+    }
+
+    .main-info-plm {
+        font-size: 34px;
+        max-width: 80px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .main-info-title {
+        font-size: 110px;
+        margin-bottom: -22px;
+        line-height: 1;
+    }
+
+    .main-info-plm {
+        margin: 0 auto;
+        font-size: 28px;
+        max-width: 60px;
+    }
+
+    .main-info-description div {
+        font-size: 16px;
+    }
+
+    .main-info-description div:first-child {
+        margin-top: 35px;
+    }
+
+    .company-form-title {
+        font-size: 44px;
+    }
+
+    .about-company-title {
+        font-size: 42px;
+    }
+
+    .company-form input, textarea {
+        width: 300px;
+    }
+
+}
+
+@media screen and (max-width: 445px) {
+    .partners-title {
+        font-size: 42px;
+    }
+
+    .partners-item {
+        padding: 30px;
+    }
+
+    .partners-items div:first-child {
+        padding-bottom: 0;
+        padding-right: 30px;
+    }
+
+    .price-item-description {
+        padding: 30px;
+    }
+
+    .price-item-description div {
+        margin-bottom: 25px;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    .functional-item-image {
+        display: none;
+    }
+
+    .functional .container {
+        padding: 65px 15px 30px 15px;
+    }
+
+    .functional-title {
+        font-size: 46px;
+        text-align: center;
+    }
+
+    .functional-item-info-list {
+        font-size: 16px;
+    }
+
+    .functional-item-info-button {
+        margin: 0 auto;
+    }
+
+    .functional-item-info-subtitle span {
+        font-size: 28px;
+        padding: 0 11px;
+        margin-right: 10px;
+    }
+
+    .functional-item-info-title {
+        text-align: center;
+        line-height: 1.2;
+    }
+
+    .price-title {
+        font-size: 46px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .about-item-description-text {
+        font-size: 16px;
+    }
+
+    .about-item-description-title {
+        font-size: 34px;
+    }
+
+    .about-item-number {
+        font-size: 60px;
+        padding: 5px;
+    }
+}
+
+@media screen and (max-width: 410px) {
+    .partners-title {
+        font-size: 40px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .price-description {
+        font-size: 20px;
+    }
+
+    .price-item {
+        height: 950px;
+    }
+}
+
+@media screen and (max-width: 395px) {
+    .main-info-title {
+        font-size: 90px;
+        margin-bottom: -18px;
+    }
+
+    .main-info-tagline {
+        font-size: 24px;
+    }
+
+    .main-info-plm {
+        font-size: 24px;
+        max-width: 50px;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .partners-title {
+        font-size: 38px;
+    }
+
+    .partners-description {
+        text-align: center;
+        font-size: 18px;
+        line-height: 1;
+    }
+
+    .partners-item {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 385px) {
+    .about-item-description-title {
+        font-size: 30px;
+    }
+
+    .about .container {
+        padding: 80px 15px 60px 15px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .functional-title {
+        font-size: 42px;
+    }
+
+    .partners-title {
+        font-size: 36px;
+    }
+
+    .price-title {
+        font-size: 38px;
+    }
+
+    .price-item-info-name {
+        font-size: 36px;
+        margin-bottom: 15px;
+    }
+
+    .price-item-info-cost {
+        font-size: 42px;
+    }
+
+    .price-item-info-text {
+        margin-bottom: 25px;
+    }
+
+    .company-form-title {
+        font-size: 40px;
+    }
+
+    .about-company-title {
+        font-size: 38px;
+    }
+
+    .company-form input, textarea {
+        width: 280px;
+    }
+
+    .about-company {
+        padding-right: 0;
+    }
+
+    .footer-contacts div, .footer-contacts a {
+        font-size: 16px;
+    }
+
+    .footer-address {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 355px) {
+    .partners-title {
+        font-size: 34px;
+    }
+
+    .price-item-info-name {
+        font-size: 32px;
+        margin-bottom: 15px;
+    }
+
+    .price-item-info-cost {
+        font-size: 38px;
+    }
+
+    .price-item-time {
+        font-size: 32px;
+    }
+}
+
+@media screen and (max-width: 335px) {
+    .partners-title {
+        font-size: 32px;
+    }
+
+    .price-item-description {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .functional-title {
+        font-size: 38px;
+    }
+
+    .price-title {
+        font-size: 38px;
+    }
+
+    .about-company-title {
+        font-size: 34px;
+    }
+
+    .company-form-title {
+        font-size: 34px;
+    }
+}
